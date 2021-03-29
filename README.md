@@ -13,3 +13,4 @@ ANSIA provides an interface to the Consensys Bundle Development Kit, a bundle of
 ![stress](stress.jpeg)
 ![stroop_test](stroop_test.jpg)
 ![tutorial](tutorial.jpg)
+![plotting](plotting.jpg)
